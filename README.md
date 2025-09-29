@@ -118,4 +118,4 @@ Once the app is running, open:
 - 413 Payload Too Large: Increase `spring.servlet.multipart.max-file-size` and `max-request-size`.
 
 ## License
-This project is provided as-is under the MIT license (or your preferred license).
+This project is provided without any license.
